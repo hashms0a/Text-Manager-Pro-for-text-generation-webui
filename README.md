@@ -67,12 +67,12 @@ cd text_manager_pro
 
 3. Download the extension file:
 ```bash
-wget https://raw.githubusercontent.com/[your-username]/text-manager-pro/main/script.py
+wget https://raw.githubusercontent.com/hashms0a/text-manager-pro/main/script.py
 ```
 
 Or clone the repository:
 ```bash
-git clone https://github.com/[your-username]/text-manager-pro.git
+git clone https://github.com/hashms0a/text_manager_pro.git
 ```
 
 4. Launch text-generation-webui with the extension:
