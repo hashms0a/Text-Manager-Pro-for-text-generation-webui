@@ -1,0 +1,1 @@
+# Text-Manager-Pro-for-text-generation-webui
